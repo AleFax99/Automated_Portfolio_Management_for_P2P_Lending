@@ -1,6 +1,6 @@
 # LendLand - Where Risk is Opportunity
 
-LendLand is a fictious P2P lending platform featuring an innovative way to solve the main limitations of existing P2P lending business models. The diverging priorities between the platform and risk-averse investors are addressed by offering subscription plans based on risk tolerance. Each subscprition plan is associated with a different automated trading strategy. Hence, once  your profile is set up, you just sit back and look at your worth grow. 
+LendLand is a fictious P2P lending platform featuring an innovative way to solve the main limitations of existing P2P lending business models. The diverging priorities between the platform and risk-averse investors are addressed by offering subscription plans based on risk tolerance. Each subscprition plan is associated with a different automated trading strategy. Hence, once  your profile is set up, you just sit back and look at your worth grow! 
 
 The code in this repository represents the Minimum Viable Product (MVP) of this novel business model. 
 
