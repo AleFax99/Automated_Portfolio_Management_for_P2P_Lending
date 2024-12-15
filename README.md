@@ -2,6 +2,8 @@
 
 LendLand is a fictious P2P lending platform featuring an innovative way to solve the main limitations of existing P2P lending business models. The diverging priorities between the platform and risk-averse investors are addressed by offering subscription plans based on risk tolerance. These plans determine the automated trading strategy. Hence, once  your profile is set up, you just sit back and look at your worth grow. 
 
+The code in this repository represents the Minimum Viable Product (MVP) of this novel business model. 
+
 ## Introduction
 Peer-to-Peer (P2P) Lending is a platform business model where one user lends to the other. Traditionally, banks provide access to finance via bank loans. Because of conservative screening practices, banks grant loan requests only to creditworthy applicants. This behaviour aligns with the typically low risk tolerance of the majority of investors. The investors of a bank are depositors and equity holders. These investors gain a low return due to low risk and high credit quality. On the other hand, investors who are more risk-tolerant can achieve superior returns by directly lending to others. This represents the demand side of a P2P lending platform. The offer comes from loan applicants who would be rejected by banks due to lower credit scores and a higher probability of default. The platform itself acts as an intermediary and match-maker between borrowers and investors. Its revenue stream is based on the amount of transactions on the platform. The more the investors and borrowers, the higher the number of transactions. 
 
@@ -23,7 +25,7 @@ LendLand is a freemium business model. The customer journey starts with a Freemi
 example, given an investment cap of 5 loans/month, freemium users are allowed to trade 5 loans per month.
 
 ## How to execute
-To reproduce this project locally, a series of set-up steps need to be followed:
+To reproduce this project locally, follow these steps:
 - create the Data, Results, Models, and Plots folders in the parent directory of the cloned repository;
 - download and save in the Data folder the Lending Club data from this link: https://www.kaggle.com/datasets/ethon0426/lending-club-20072020q1
 - execute data cleaning, Macro variables, PD prediction, and Portfolio Management notebooks in this sequence.
