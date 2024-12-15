@@ -3,7 +3,7 @@
 Peer-to-Peer (P2P) Lending is a platform business model where one user lends to the other. Traditionally, banks provide access to finance via bank loans. Because of conservative screening practices, banks grant loan requests only to creditworthy applicants. This behaviour aligns with the typically low risk tolerance of the majority of investors. The investors of a bank are depositors and equity holders. These investors gain a low return due to low risk and high credit quality. On the other hand, investors who are more risk-tolerant could achieve superior returns by directly lending to others. This represents the demand side of a P2P lending platform. The offer comes from loan applicants who would be rejected by banks due to lower credit scores and a higher probability of default. 
 
 Compared to traditional banking, P2P lending suffers from adverse selection and information asymmetry. Once rejected by banks, less creditworthy borrowers turn to P2P lending platforms to look for finance. This phenomenon is referred to in economics as adverse selection. Moreover, due to lower barriers at the entrance and less disclosure requirements, P2P lending platforms promote information asymmetry between investors and loan orginators. 
-Despite the potential for higher returns, lenders on P2P lending platforms still show risk-aversion. On the other hand, P2P lending platforms incentivise the presence of borrowers, even if risky, via lax screening procedures. Hence, there is a conflict between investors' preferences and the business model revenue stream (Klein et. al, 2023). Moreover, it was found that wealthier investors tend to be more risk-averse on P2P lending platforms. Enhancing the matching process and implementing
+Despite the potential for higher returns, lenders on P2P lending platforms still show risk-aversion. On the other hand, P2P lending platforms incentivise the presence of borrowers, even if risky, via lax screening procedures. Hence, there is a conflict between investors' preferences and the business model revenue stream (Klein et. al, 2023). Moreover, it was found that wealthier investors tend to be more risk-averse on P2P lending platforms (Paravisini et al., 2017). Enhancing the matching process and implementing
 strategic pricing based on risk tolerance could reconcile diverging priorities, creating value for both investors and the platform.
 
 LendLand's mission is to give the opportunity of superior returns for the risk-averse investors.
@@ -30,6 +30,8 @@ To reproduce this project locally, a series of set-up steps need to be followed:
 ## References
 Klein, G., Shtudiner, Z., & Zwilling, M. (2023). Why do peer-to-peer (P2P) lending platforms fail? The gap
 between P2P lenders' preferences and the platforms’ intentions. Electronic Commerce Research, 23:709–738.
+
 OpenAI. (2024, May 24). DALL-E. From ChatGPT: https://chatgpt.com
+
 Paravisini, D., Rappoport, V., & Ravina, E. (2017). Risk Aversion and Wealth: Evidence from Person-to-Person
 Lending Portfolios. Management Science, Vol. 63, No. 2, pp. 279–297.
