@@ -11,7 +11,7 @@ LendLand's mission is to offer the opportunity of superior returns to the risk-a
 A new P2P lending business model is proposed with the main innovation being an algorithm for risk-adjusted automated trading in the secondary market. At the moment of registration, the user indicates a level of risk tolerance which is mapped to a range of Probability of Default for the loans in the portfolio as follows:
 - “low” → PD in range [0, 0.3)
 - “medium” → PD in range [0.3, 0.6)
-- “high” → PD in range [0.6, 100]
+- “high” → PD in range [0.6, 1]
 These thresholds indicate the extent to which the investor bears the risk of default on a loan in their portfolio. The algorithm predicts the probability of default of each loan in the portfolio every period. If at any time the threshold is exceeded, the loan is sold to another investor with a higher risk appetite.
 
 ## The Revenue Stream 
