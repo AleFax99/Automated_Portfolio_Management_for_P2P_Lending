@@ -8,11 +8,11 @@ The code in this repository represents the Minimum Viable Product (MVP) of this 
 Peer-to-Peer (P2P) Lending is a platform business model where one user lends to the other. Traditionally, banks provide access to finance via bank loans. Because of conservative screening practices, banks grant loan requests only to creditworthy applicants. This behaviour aligns with the typically low risk tolerance of the majority of investors. The investors of a bank are depositors and equity holders. These investors gain a low return due to low risk and high credit quality. On the other hand, investors who are more risk-tolerant can achieve superior returns by directly lending to others. 
 
 A P2P lending platform features three stakeholders:
-1. investors (demand)
-2. borrowers (offer)
+1. investors (supply)
+2. borrowers (demand)
 3. platform (intermediary)
 
-The offer comes from borrowers who would be rejected by banks due to low credit scores and a higher probability of default. The platform itself acts as an intermediary and match-maker between borrowers and investors. Its revenue stream is based on the amount of transactions on the platform. The more the investors and borrowers, the higher the number of transactions. 
+Demand comes from borrowers who would be rejected by banks due to low credit scores and a higher probability of default. The platform itself facilitates transactions between borrowers and investors. The typical revenue stream is based on the amount of transactions on the platform. The more the investors and borrowers, the higher the number of transactions. 
 
 Compared to traditional banking, P2P lending suffers from adverse selection and information asymmetry. Once rejected by banks, less creditworthy borrowers turn to P2P lending platforms to look for finance. This phenomenon is referred to in economics as adverse selection. Moreover, due to lower barriers at the entrance and less disclosure requirements, P2P lending platforms promote information asymmetry between investors and loan orginators. 
 Despite the potential for higher returns, lenders on P2P lending platforms still show risk-aversion. On the other hand, P2P lending platforms incentivise the presence of borrowers, even if risky, via lax screening procedures. Hence, there is a conflict between investors' preferences and business interests (Klein et. al, 2023). Moreover, it was found that wealthier investors tend to be more risk-averse on P2P lending platforms (Paravisini et al., 2017). Enhancing the match between offer and demand while strategically rethink the revenue stream could reconcile diverging priorities and create value for both investors and the platform.
