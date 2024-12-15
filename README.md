@@ -1,8 +1,9 @@
 # LendLand - Where Risk is Opportunity
+![LendLand_Logo](https://github.com/user-attachments/assets/1d06aeb5-ca89-42f6-82ec-a241ebbf306d)
 
 LendLand is a fictious P2P lending platform featuring an innovative way to solve the main limitations of existing P2P lending business models. The diverging priorities between the platform and risk-averse investors are addressed by offering subscription plans based on risk tolerance. Each subscprition plan is associated with a different automated trading strategy. Hence, once  your profile is set up, you just sit back and look at your worth grow! 
 
-The code in this repository represents the Minimum Viable Product (MVP) of this novel business model. 
+The code in this repository represents the Minimum Viable Product (MVP) for LendLand. 
 
 ## Introduction
 Peer-to-Peer (P2P) Lending is a platform business model where one user lends to the other. Traditionally, banks provide access to finance via bank loans. Because of conservative screening practices, banks grant loan requests only to creditworthy applicants. This behaviour aligns with the typically low risk tolerance of the majority of investors. The investors of a bank are depositors and equity holders. These investors gain a low return due to low risk and high credit quality. On the other hand, investors who are more risk-tolerant can achieve superior returns by directly lending to others. 
