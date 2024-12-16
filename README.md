@@ -19,7 +19,7 @@ Compared to traditional banking, P2P lending suffers from adverse selection and 
 
 Despite the potential for higher returns, lenders on P2P lending platforms still show risk-aversion. On the other hand, P2P lending platforms incentivise the presence of borrowers, even if risky, via lax screening procedures. Hence, there is a conflict between investors' preferences and business interests (Klein et. al, 2023). Moreover, it was found that wealthier investors tend to be more risk-averse on P2P lending platforms (Paravisini et al., 2017). Enhancing the match between supply and demand while strategically rethink the revenue stream could reconcile diverging priorities and create value for both investors and the platform.
 
-LendLand's mission is to offer the opportunity of superior returns to the risk-averse investors.
+LendLand's mission is to offer the opportunity of superior returns to risk-averse investors.
 
 ## Risk-Adjusted Automated Portfolio Management for P2P Lending
 A new P2P lending business model is proposed with the main innovation being an algorithm for risk-adjusted automated trading in the secondary market. At the moment of registration, the user indicates a level of risk tolerance which is mapped to a range of Probability of Default for the loans in the portfolio as follows:
